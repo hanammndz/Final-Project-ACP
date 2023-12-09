@@ -7,10 +7,13 @@
 
 ## Members:
 
-## *Balmes, Kenneth S. |*
-## *Buenafe, Julianne Harieth I. |*
-## *Hernandez, Sabina Allyanah M. |*
-## *Mendoza, Hannah Marie F. |*
+*Balmes, Kenneth S. | [@KennethBalmes](https://github.com/knnthbalmes)* 
+
+*Buenafe, Julianne Harieth I. | [@JulianneHariethBuenafe](https://github.com/juliannebuenafe)*
+
+*Hernandez, Sabina Allyanah M. | [@SabinaAllyanahHernandez](https://github.com/sashimmiy)*
+
+*Mendoza, Hannah Marie F. | [@HannahMarieMendoza](https://github.com/hanammndz)*
 
 # *SELF ASSESSMENT*
 Based on the given rubric for grading, the group assesed the system and it resulted to this:
