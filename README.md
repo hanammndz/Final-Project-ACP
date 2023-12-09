@@ -47,3 +47,12 @@ Once the user runs the program, a panel will appear showing all the items per ca
 
 # *CONCLUSION*
 In conclusion, we are able to create a program incorporating what we have learned from this course such as OOP principles, functions, and data structures and algorithms. Learning new language was a struggle, but it surely contributed to our journey as programmers.
+
+# *PEER EVALUATION*
+| SR-CODE | MEMBER | GRADE | DESIGNATION |
+|------|------|------|------|
+| 22-05836 | BALMES, KENNETH | 25% | Lead Developer |
+| 22-09433 | BUENAFE, JULIANNE HARIETH | 25% | Data Structures and Algorithms |
+| 22-05114 | HERNANDEZ, SABINA ALLYANAH | 25% | Graphics & UI |
+| 22-00947 | MENDOZA, HANNAH MARIE | 25% | Developer |
+|   | TOTAL | 100% |   |
