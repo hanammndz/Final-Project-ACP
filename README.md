@@ -61,4 +61,4 @@ In conclusion, we are able to create a program incorporating what we have learne
 |   | TOTAL | 100% |   |
 
 # *PROJECT SCREENSHOTS*
-
+![Figure 1](https://github.com/hanammndz/Final-Project-ACP/assets/148464551/14aeed1d-9f21-4c1b-b3f0-93bcf7289729)
