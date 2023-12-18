@@ -62,3 +62,8 @@ In conclusion, we are able to create a program incorporating what we have learne
 
 # *PROJECT SCREENSHOTS*
 ![Figure 1](https://github.com/hanammndz/Final-Project-ACP/assets/148464551/14aeed1d-9f21-4c1b-b3f0-93bcf7289729)
+![Figure 2](https://github.com/hanammndz/Final-Project-ACP/assets/148464551/061d3b8b-9e0e-4d35-a50e-a4bb2169618c)
+![FIgure 3](https://github.com/hanammndz/Final-Project-ACP/assets/148464551/ab3a1159-ac59-4321-bc39-b3d1f96c8bba)
+![Figure 4](https://github.com/hanammndz/Final-Project-ACP/assets/148464551/75db81b7-4061-4506-bd4a-ad4584a35bed)
+![Figure 5](https://github.com/hanammndz/Final-Project-ACP/assets/148464551/50b0f8ba-daf3-42e8-9308-856487b71f85)
+
