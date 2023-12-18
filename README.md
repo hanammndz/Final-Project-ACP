@@ -59,3 +59,6 @@ In conclusion, we are able to create a program incorporating what we have learne
 | 22-05114 | HERNANDEZ, SABINA ALLYANAH | 25% | Graphics & UI |
 | 22-00947 | MENDOZA, HANNAH MARIE | 25% | Developer |
 |   | TOTAL | 100% |   |
+
+# *PROJECT SCREENSHOTS*
+
